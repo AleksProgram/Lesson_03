@@ -1,0 +1,18 @@
+.box {
+    background-color: seashell;
+    border: 5px solid black;
+    border-radius: 20px;
+    padding: 50px 100px 10px 10px;
+}
+
+.text {
+    border: 3px solid red;
+    margin: auto;
+    padding: 20px 50px;
+}
+
+.mbig {
+    margin: 70px;
+}
+
+/*trouble*/
